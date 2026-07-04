@@ -1,0 +1,20 @@
+{
+  "updated": "2026-07-04T16:17:59.414Z",
+  "users": [
+    {
+      "user": "tourist",
+      "rating": 3797,
+      "highest": 4229
+    },
+    {
+      "user": "chokudai",
+      "rating": 2958,
+      "highest": 3092
+    },
+    {
+      "user": "e869120",
+      "rating": 2872,
+      "highest": 2950
+    }
+  ]
+}
